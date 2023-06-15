@@ -1,0 +1,57 @@
+version: 1
+project:
+  title: >-
+    Reproducibility study of the modular and reusable model of epithelial
+    transport in the proximal convoluted tubule
+  authors:
+    - name: Leyla Noroozbabaee
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+      orcid: 0000-0003-0416-1541
+      corresponding: true
+      email: l.noroozbabaee@auckland.ac.nz
+    - name: Pablo J. Blanco
+      orcid: 0000-0001-8402-1092
+      affiliations:
+        - National Laboratory for Scientific Computing, Petrópolis, Brazil
+    - name: Soroush Safaei
+      orcid: 0000-0001-5734-243X
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: David P. Nickerson
+      orcid: 0000-0003-4667-9779
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+  history:
+    - date: 2022/12/15
+      type: submitted
+    - date: 2023/05/27
+      type: published
+  keywords:
+    - Proximal Tubule
+    - Epithelial transport
+    - Computational Model
+    - Epithelial cell model
+    - Python
+  open_access: true
+  license: CC-BY-4.0
+  subject: Original
+  date: 2023/05/27
+  doi: 10.36903/physiome.21708176
+site:
+  title: >-
+    Reproducibility study of the modular and reusable model of epithelial
+    transport in the proximal convoluted tubule
+  projects:
+    - slug: S000024
+      path: .
+  nav: []
+  actions:
+    - title: paper
+      url: Noroozbabaee2023PhysiomeS000024.pdf
+      static: true
+    - title: omex
+      url: Noroozbabaee2023PhysiomeS000024.omex
+      static: true
+    - title: primary
+      url: https://doi.org/10.1371/journal.pone.0275837
