@@ -38,6 +38,12 @@ project:
   subject: Original
   date: 2023/05/27
   doi: 10.36903/physiome.21708176
+  abbreviations:
+    PCT: Proximal Convoluted Tubule
+    SGLT: Sodium-Glucose Linked Transporter
+  numbering:
+    heading_2: true
+    heading_3: true
 site:
   title: >-
     Reproducibility study of the modular and reusable model of epithelial
