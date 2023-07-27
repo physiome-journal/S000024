@@ -3,6 +3,8 @@ project:
   title: >-
     Reproducibility study of the modular and reusable model of epithelial
     transport in the proximal convoluted tubule
+  description: We describe here our implementation of a renal epithelial model as published in Noroozbabaee et al. (2022). The flexible and modular model we presented in Noroozbabaee et al. (2022) can be adapted to specific configurations of epithelial transport.
+  thumbnail: thumbnail.png
   authors:
     - name: Leyla Noroozbabaee
       affiliations:
@@ -50,10 +52,6 @@ site:
   title: >-
     Reproducibility study of the modular and reusable model of epithelial
     transport in the proximal convoluted tubule
-  projects:
-    - slug: S000024
-      path: .
-  nav: []
   actions:
     - title: paper
       url: Noroozbabaee2023PhysiomeS000024.pdf
@@ -63,3 +61,5 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.1371/journal.pone.0275837
+  domains:
+    - physiome-S000024.curve.space
